@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧑 About me
+## 👨 About me
 
-I'm a Computer Engineer with experience in Internet of Things and Embedded Systems.
+I'm a  with experience in Internet of Things and Embedded Systems.
 
 Currently, I'm Master degree candidate at Unicamp Computer Institute, developing research in Internet of Things area (LoRa/LoRaWAN) and I work at INDT as Embedded System Developer.
 
@@ -36,4 +36,4 @@ Currently, I'm Master degree candidate at Unicamp Computer Institute, developing
 
 Please, let me know if you want to start a colaboration project with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahis-almeida-5805094b/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-araujo-7265aa65/)
