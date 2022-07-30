@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :dancer: About me
+## 🧑 About me
 
 I'm a Computer Engineer with experience in Internet of Things and Embedded Systems.
 
