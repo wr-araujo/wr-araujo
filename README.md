@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I have studied telecommunication and Master’s degree in Scientific Instrumentation at the University of Campinas with experience in Backend Development, Eletronic Design. Internet of Things and Embedded Systems.
 
-Currently, I work at INDT as Technical Specialist.
-
 ## ✨ Areas of Interest
 
 - Internet of Things
